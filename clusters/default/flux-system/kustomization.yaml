@@ -10,7 +10,7 @@ patches:
     metadata:
       name: kustomize-controller
       annotations:
-        eks.amazonaws.com/role-arn: arn:aws:iam::290913681714:role/eksctl-devops-83-dev-addon-iamserviceaccount-Role1-SNN1LRCAJJ7L
+        eks.amazonaws.com/role-arn: arn:aws:iam::290913681714:role/eksctl-devops-83-dev-addon-iamserviceaccount-Role1-1OJJ9Y6UXWGPQ
   target:
     kind: ServiceAccount
     name: kustomize-controller
